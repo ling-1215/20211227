@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+
+</div>
+<h3>靜岡抹茶巴斯克</h3>
+</div>
+
+<a href="index.html">餐飲美食首頁</a>
+<a href="2nd.html">紅柚冰美式特調</a>
+<a href="3nd.html">炙燒鮭青醬燉飯</a>
+<a href="5nd.html">心得感想</a>
+
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+
+<tr>
+<td><img src=".\image\004.jpg.png" width="400" height="300" align="left"></td>
+<td><h3>靜岡抹茶巴斯克</h3></td>
+<td>滑順香甜入口即化的巴斯克，在口中爆發濃郁靜岡抹茶味的喜悅，<br>
+加上一旁的鮮奶油，沾點奶油又增添了濃濃奶香<br>
+單吃蛋糕不沾奶油，濃郁又滑順的抹茶風味順著鼻腔直達頭頂<p></td>
+</div>
+</tr>
+
+
+
+</div>
+</tr>
+</table>
+<audio src=".\101-coffee.mp3" autoplay controls> </audio>

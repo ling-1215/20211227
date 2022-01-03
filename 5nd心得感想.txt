@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+
+</div>
+<h3>心得感想</h3>
+</div>
+
+<a href="index.html">餐飲美食首頁</a>
+<a href="2nd.html">紅柚冰美式特調炙</a>
+<a href="3nd.html">燒鮭青醬燉飯</a>
+<a href="4nd.html">靜岡抹茶巴斯克</a>
+
+
+
+<tr>
+<td><img src=".\image\001.jpg.png" width="400" height="300" align="left"></td>
+<td><h3>心得感想</h3></td>
+<td>美食讓人垂涎三尺、讓人心情愉悅<br>
+品嚐各地美食，吃在嘴裡滿足在心裡<br>
+料裡中的酸甜苦辣鹽，猶如人生也豐富了人生<p></td>
+</div>
+</tr>
+
+
+
+</div>
+</tr>
+</table>
+<audio src=".\101-coffee.mp3" autoplay controls> </audio>
